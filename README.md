@@ -35,9 +35,6 @@ I'm a passionate developer interested in **Web Development**, **Machine Learning
 
 <div align="center">
 
-![Dileep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dileep-kumarc&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep-kumarc&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dileep-kumarc&theme=radical&hide_border=true)
 
@@ -72,7 +69,7 @@ Backend applications developed using Java technologies.
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://www.linkedin.com/in/dileep-kumar-3a5278268/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dileepkmrc@gmail.com)
 
 ---
@@ -81,6 +78,6 @@ Backend applications developed using Java technologies.
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dileep-kumarc&color=blue&style=for-the-badge)
+
 
 </div>
